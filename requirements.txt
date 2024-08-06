@@ -4,7 +4,8 @@ langchain
 python-dotenv
 streamlit
 tiktoken
-
+google-generativeai
+langchain-chroma
 langchain_community
 langchain-core
 langchain-groq
