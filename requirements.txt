@@ -1,0 +1,11 @@
+apify-client
+chromadb
+langchain
+python-dotenv
+streamlit
+tiktoken
+
+langchain_community
+langchain-core
+langchain-groq
+langchain-text-splitters
